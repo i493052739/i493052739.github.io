@@ -30,15 +30,16 @@ twitter:
   username: twitter_username            # change to your twitter username
 
 social:
-  name: your_full_name                  # it will shows as the copyright owner in Footer
-  email: example@doamin.com             # change to your email address
+  name: JasperBear                  # it will shows as the copyright owner in Footer
+  email: jasper.fang@qq.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
+    # - https://twitter.com/username      # change to your twitter homepage
     - https://github.com/i493052739       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://stackoverflow.com/users/14596745/siyu-fang
+    - https://www.linkedin.com/in/siyu-fang-00297a139/
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 # --------------------------
@@ -79,7 +80,7 @@ disqus:
 #
 #     dark   - Use the dark color scheme
 #
-theme_mode:   # <light|dark>
+theme_mode: dark   # <light|dark>
 
 # boolean type, the global switch for ToC in posts.
 toc: true
