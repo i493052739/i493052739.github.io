@@ -9,7 +9,7 @@
 # --------------------------
 title: CoffeeBear's SnowkSite                          # the main title
 
-tagline: stay foolish stay hungry.  # it will display as the sub-title
+tagline: stay foolish, stay hungry.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
@@ -59,8 +59,8 @@ google_analytics:
     # DO NOT enable it unless you know how to deploy the Google Analytics superProxy.
     enabled: false
     # the next options only valid when `google_analytics.pv` is enabled.
-    proxy_url: 'https://integral-hold-298204.appspot.com/query?id=ahZifmludGVncmFsLWhvbGQtMjk4MjA0chULEghBcGlRdWVyeRiAgICYlKaDCgw'
-    proxy_endpoint: 'SnowkSite'
+    proxy_url: ''
+    proxy_endpoint: ''
     cache: true  # pv data local cache, good for the users from GFW area.
 
 disqus:
