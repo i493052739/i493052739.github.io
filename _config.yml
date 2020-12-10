@@ -7,9 +7,9 @@
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: Snowk-Site                          # the main title
+title: CoffeeBear's SnowkSite                          # the main title
 
-tagline: 求知若饥，虚心若愚。  # it will display as the sub-title
+tagline: stay foolish stay hungry.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
@@ -53,14 +53,14 @@ baseurl: ''
 timezone: Asia/Shanghai
 
 google_analytics:
-  id: ''          # Fill with your Google Analytics ID
+  id: '234522670'          # Fill with your Google Analytics ID
   pv:
     # The Google Analytics pageviews switch.
     # DO NOT enable it unless you know how to deploy the Google Analytics superProxy.
     enabled: true
     # the next options only valid when `google_analytics.pv` is enabled.
-    proxy_url: ''
-    proxy_endpoint: ''
+    proxy_url: 'https://integral-hold-298204.appspot.com/query?id=ahZifmludGVncmFsLWhvbGQtMjk4MjA0chULEghBcGlRdWVyeRiAgICYlKaDCgw'
+    proxy_endpoint: 'SnowkSite'
     cache: true  # pv data local cache, good for the users from GFW area.
 
 disqus:

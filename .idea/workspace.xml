@@ -70,7 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1607524797729</updated>
       <workItem from="1607524801152" duration="3128000" />
-      <workItem from="1607528258118" duration="8792000" />
+      <workItem from="1607528258118" duration="9229000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1607525599184</created>
@@ -184,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607608715740</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="change theme, some names">
+      <created>1607609466609</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1607609466609</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -221,12 +228,13 @@
     <MESSAGE value="test for init tags and categories" />
     <MESSAGE value="delete avatar" />
     <MESSAGE value="change avatar" />
-    <option name="LAST_COMMIT_MESSAGE" value="change avatar" />
+    <MESSAGE value="change theme, some names" />
+    <option name="LAST_COMMIT_MESSAGE" value="change theme, some names" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="625" y="273" key="Vcs.Push.Dialog.v2" timestamp="1607608716944">
+    <state x="625" y="273" key="Vcs.Push.Dialog.v2" timestamp="1607609467743">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="625" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607608716944" />
+    <state x="625" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607609467743" />
   </component>
 </project>
