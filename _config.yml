@@ -53,11 +53,11 @@ baseurl: ''
 timezone: Asia/Shanghai
 
 google_analytics:
-  id: '234522670'          # Fill with your Google Analytics ID
+  id: 'ga:234522670'          # Fill with your Google Analytics ID
   pv:
     # The Google Analytics pageviews switch.
     # DO NOT enable it unless you know how to deploy the Google Analytics superProxy.
-    enabled: true
+    enabled: false
     # the next options only valid when `google_analytics.pv` is enabled.
     proxy_url: 'https://integral-hold-298204.appspot.com/query?id=ahZifmludGVncmFsLWhvbGQtMjk4MjA0chULEghBcGlRdWVyeRiAgICYlKaDCgw'
     proxy_endpoint: 'SnowkSite'
