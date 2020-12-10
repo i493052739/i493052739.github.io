@@ -25,7 +25,10 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b72325e1-398e-49b0-98e3-388eee81cb26" name="Default Changelist" comment="" />
+    <list default="true" id="b72325e1-398e-49b0-98e3-388eee81cb26" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-12-09-Github入门.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-12-09-Github入门.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,7 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1607524797729</updated>
       <workItem from="1607524801152" duration="3128000" />
-      <workItem from="1607528258118" duration="1341000" />
+      <workItem from="1607528258118" duration="1727000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1607525599184</created>
@@ -90,7 +93,21 @@
       <option name="project" value="LOCAL" />
       <updated>1607528965132</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="test post">
+      <created>1607566645117</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1607566645117</updated>
+    </task>
+    <task id="LOCAL-00005" summary="test post">
+      <created>1607566689441</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1607566689441</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,9 +144,9 @@
     <option name="LAST_COMMIT_MESSAGE" value="test post" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="625" y="273" key="Vcs.Push.Dialog.v2" timestamp="1607528966433">
+    <state x="625" y="273" key="Vcs.Push.Dialog.v2" timestamp="1607566692836">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="625" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607528966433" />
+    <state x="625" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607566692836" />
   </component>
 </project>
