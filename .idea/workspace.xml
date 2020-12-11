@@ -26,8 +26,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b72325e1-398e-49b0-98e3-388eee81cb26" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_posts/2020-12-11-Github入门2.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-12-09-Github入门.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-12-09-Github入门1.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +71,8 @@
       <option name="presentableId" value="Default" />
       <updated>1607524797729</updated>
       <workItem from="1607524801152" duration="3128000" />
-      <workItem from="1607528258118" duration="9498000" />
+      <workItem from="1607528258118" duration="9758000" />
+      <workItem from="1607675138761" duration="230000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1607525599184</created>
@@ -212,7 +214,28 @@
       <option name="project" value="LOCAL" />
       <updated>1607610091407</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="disable ga pv function">
+      <created>1607610177095</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1607610177095</updated>
+    </task>
+    <task id="LOCAL-00022" summary="modify posts">
+      <created>1607610348780</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1607610348780</updated>
+    </task>
+    <task id="LOCAL-00023" summary="modify posts">
+      <created>1607610394460</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1607610394460</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -252,12 +275,13 @@
     <MESSAGE value="change theme, some names" />
     <MESSAGE value="change slogan name, and test google analytics" />
     <MESSAGE value="disable ga pv function" />
-    <option name="LAST_COMMIT_MESSAGE" value="disable ga pv function" />
+    <MESSAGE value="modify posts" />
+    <option name="LAST_COMMIT_MESSAGE" value="modify posts" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="625" y="273" key="Vcs.Push.Dialog.v2" timestamp="1607610096626">
+    <state x="625" y="273" key="Vcs.Push.Dialog.v2" timestamp="1607610395619">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="625" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607610096626" />
+    <state x="625" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607610395619" />
   </component>
 </project>
