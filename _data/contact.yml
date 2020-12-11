@@ -7,14 +7,14 @@
 -
   type: github
   icon: 'fab fa-github-alt'
--
+#-
 #  type: twitter
 #  icon: 'fab fa-twitter'
 -
   type: email
   icon: 'fas fa-envelope'
   noblank: true            # open link in current tab
--
+#-
 #  type: rss
 #  icon: 'fas fa-rss'
 #  noblank: true
@@ -32,4 +32,3 @@
   type: stack-overflow
   icon: 'fab fa-stack-overflow'
   url:  'https://stackoverflow.com/users/14596745/siyu-fang'                  # Fill with your stackoverflow homepage
--
