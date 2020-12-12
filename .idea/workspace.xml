@@ -27,7 +27,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b72325e1-398e-49b0-98e3-388eee81cb26" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/contact.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/contact.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-12-11-Github入门2.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-12-11-Github入门2.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +73,8 @@
       <workItem from="1607528258118" duration="9758000" />
       <workItem from="1607675138761" duration="5142000" />
       <workItem from="1607694415023" duration="77000" />
-      <workItem from="1607766641991" duration="5693000" />
+      <workItem from="1607766641991" duration="7206000" />
+      <workItem from="1607785853912" duration="6000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1607525599184</created>
@@ -334,7 +335,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607777832840</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="feed zhihu csdn leetcode info in contact.yml, share.yml">
+      <created>1607778162407</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1607778162407</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -386,9 +394,9 @@
     <option name="LAST_COMMIT_MESSAGE" value="feed zhihu csdn leetcode info in contact.yml, share.yml" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="625" y="273" key="Vcs.Push.Dialog.v2" timestamp="1607777833641">
+    <state x="625" y="273" key="Vcs.Push.Dialog.v2" timestamp="1607778163311">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="625" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607777833641" />
+    <state x="625" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607778163311" />
   </component>
 </project>
