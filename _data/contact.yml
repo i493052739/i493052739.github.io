@@ -27,15 +27,7 @@
 -
   type: linkedin
   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
-  url:  'https://www.linkedin.com/in/siyu-fang-00297a139/'                  # Fill with your Linkedin homepage
--
-  type: stack-overflow
-  icon: 'fab fa-stack-overflow'
-  url:  'https://stackoverflow.com/users/14596745/siyu-fang'                  # Fill with your stackoverflow homepage
--
-  type: ZhiHu
-  icon: 'fab fa-zhihu'
-  url:  'https://www.zhihu.com/people/fang-si-yu-84'
+  url:  'https://www.linkedin.com/in/siyu-fang-00297a139/'
 -
   type: CSDN
   icon: 'fas fa-envelope'
@@ -44,3 +36,11 @@
   type: LeetCode
   icon: 'fas fa-rss'
   url:  'https://leetcode-cn.com/u/jasperfang/'
+-
+  type: stack-overflow
+  icon: 'fab fa-stack-overflow'
+  url:  'https://stackoverflow.com/users/14596745/siyu-fang'
+-
+  type: ZhiHu
+  icon: 'fab fa-zhihu'
+  url:  'https://www.zhihu.com/people/fang-si-yu-84'
