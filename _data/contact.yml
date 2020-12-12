@@ -10,10 +10,10 @@
 #-
 #  type: twitter
 #  icon: 'fab fa-twitter'
--
-  type: email
-  icon: 'fas fa-envelope'
-  noblank: true            # open link in current tab
+#-
+#  type: email
+#  icon: 'fas fa-envelope'
+#  noblank: true            # open link in current tab
 #-
 #  type: rss
 #  icon: 'fas fa-rss'
@@ -38,9 +38,9 @@
   url:  'https://www.zhihu.com/people/fang-si-yu-84'
 -
   type: CSDN
-  icon: 'fab fa-rss'
+  icon: 'fab fa-envelope'
   url:  'https://blog.csdn.net/i493052739'
 -
   type: LeetCode
-  icon: 'fab fa-leetcode'
+  icon: 'fab fa-torch'
   url:  'https://leetcode-cn.com/u/jasperfang/'
