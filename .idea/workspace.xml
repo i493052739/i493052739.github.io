@@ -27,9 +27,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b72325e1-398e-49b0-98e3-388eee81cb26" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/contact.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/contact.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_data/share.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/share.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-12-11-Github入门2.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-12-11-Github入门2.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +73,7 @@
       <workItem from="1607528258118" duration="9758000" />
       <workItem from="1607675138761" duration="5142000" />
       <workItem from="1607694415023" duration="77000" />
-      <workItem from="1607766641991" duration="4518000" />
+      <workItem from="1607766641991" duration="4859000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1607525599184</created>
@@ -301,7 +299,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607775766812</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="feed zhihu csdn leetcode info in contact.yml, share.yml">
+      <created>1607777013879</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1607777013879</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -349,12 +354,13 @@
     <MESSAGE value="fix contact format" />
     <MESSAGE value="emoji test:" />
     <MESSAGE value="spoiler block test" />
-    <option name="LAST_COMMIT_MESSAGE" value="spoiler block test" />
+    <MESSAGE value="feed zhihu csdn leetcode info in contact.yml, share.yml" />
+    <option name="LAST_COMMIT_MESSAGE" value="feed zhihu csdn leetcode info in contact.yml, share.yml" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="625" y="273" key="Vcs.Push.Dialog.v2" timestamp="1607776106145">
+    <state x="625" y="273" key="Vcs.Push.Dialog.v2" timestamp="1607777179620">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="625" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607776106145" />
+    <state x="625" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607777179620" />
   </component>
 </project>
