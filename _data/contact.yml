@@ -38,9 +38,9 @@
   url:  'https://www.zhihu.com/people/fang-si-yu-84'
 -
   type: CSDN
-  icon: 'fab fa-envelope'
+  icon: 'fas fa-envelope'
   url:  'https://blog.csdn.net/i493052739'
 -
   type: LeetCode
-  icon: 'fab fa-torch'
+  icon: 'fas fa-rss'
   url:  'https://leetcode-cn.com/u/jasperfang/'
